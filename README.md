@@ -7,5 +7,4 @@
   \____/|_|  |_|_| \_|_____|  \____/|_| \_|______|
 </pre>    
          
-OMNI ONE 
 Omni directional transport vehicle with object tracking
